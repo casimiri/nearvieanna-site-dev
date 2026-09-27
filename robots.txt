@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /nearvieanna-site-dev/admin/
+
+Sitemap: https://casimiri.github.io/nearvieanna-site-dev/sitemap-index.xml
